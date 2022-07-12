@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.sun.tools.classfile.StackMapTable_attribute.same_frame"/>
+<fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+<fullyQualifiedTypeName name="com.a.excpetion_examples.user_defind.StackFullException"/>
+<fullyQualifiedTypeName name="com.a.excpetion_examples.user_defind.StackEmptyException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.ATHROW"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.a.io_examples.ex_overriding_ctr.doubt3.Fuit"/>
+<fullyQualifiedTypeName name="com.a.io_examples.ex_overriding_ctr.doubt3.Apple"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.a.io_examples.ex_overriding_ctr.doubt3.Milk"/>
+<fullyQualifiedTypeName name="com.a.io_examples.ex_overriding_ctr.doubt3.KD"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.c.serili_deser.ex1.Account"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="com.c.serili_deser.ex3.Collar"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="sun.security.provider.SHA"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="com.d.enum_ex.ShirtSize"/>
+<fullyQualifiedTypeName name="com.h.singleton.MySingleton"/>
+</qualifiedTypeNameHistroy>

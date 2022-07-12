@@ -1,0 +1,5 @@
+package com.f.misc_java5_features;
+
+public class B_CovarientReturnType {
+
+}

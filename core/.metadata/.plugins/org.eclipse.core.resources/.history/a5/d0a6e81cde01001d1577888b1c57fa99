@@ -1,0 +1,5 @@
+package com.h.singleton;
+
+public class DemoSingleton {
+
+}

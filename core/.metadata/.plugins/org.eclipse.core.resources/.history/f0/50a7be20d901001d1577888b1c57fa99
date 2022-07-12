@@ -1,0 +1,21 @@
+package com.f.misc_java5_features;
+	/*
+	 * 					Number
+	 * 
+	 * 	Integer		Float 		Double			....
+	 */
+public class WrapperClasses {
+	
+	public static void main(String[] args) {
+		//java collection : and it dont support primitive
+		
+		int i=88;
+		Integer it=new Integer(i);
+		int temp=it.intValue();
+		temp++;
+		it=new Integer(temp);
+		
+		
+	}
+
+}

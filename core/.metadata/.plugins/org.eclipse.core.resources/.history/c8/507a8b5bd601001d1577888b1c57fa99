@@ -1,0 +1,24 @@
+package com.c.serili_deser.ex4;
+
+import java.io.Serializable;
+
+class Foo implements Serializable {
+	
+	int i = 33;
+
+	Foo() {
+		System.out.println("ctr of foo");
+	}
+}
+
+class Bar extends Foo {
+	int i = 330;
+
+	Bar() {
+		System.out.println("ctr of bar");
+	}
+}
+
+public class DemoSerAndInheritance {
+
+}

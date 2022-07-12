@@ -1,0 +1,40 @@
+package com.d.enum_ex;
+//RED->YELLOW
+
+//Y-> G
+//G->R
+
+interface NextLight{
+	public abstract TrafficLight nextLight();
+}
+enum TrafficLight implements NextLight{
+	RED {
+		@Override
+		public TrafficLight nextLight() {
+			return YELLOW;
+		}
+	},
+	YELLOW {
+		@Override
+		public TrafficLight nextLight() {
+			return GREEN;
+		}
+	},
+	GREEN {
+		@Override
+		public TrafficLight nextLight() {
+			return RED;
+		}
+	};
+
+//
+	//public abstract TrafficLight nextLight();
+}
+
+public class E_Abstract_Method_In_Enum {
+
+	public static void main(String[] args) {
+		TrafficLight light=TrafficLight.GREEN;
+		System.out.println(light.nextLight());
+	}
+}

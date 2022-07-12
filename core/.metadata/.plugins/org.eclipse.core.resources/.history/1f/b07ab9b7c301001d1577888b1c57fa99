@@ -1,0 +1,24 @@
+package com.a.io_examples.ex_overriding_ctr;
+
+class X {
+	 X() {
+		System.out.println("CTR class X");
+	}
+}
+
+class Y extends X {
+	 Y() {
+		System.out.println("ctr of class Y");
+	}
+}
+
+public class Demo2 {
+
+	public static void main(String[] args) {
+
+		X x = new Y();
+
+		System.out.println("---------");
+	}
+
+}

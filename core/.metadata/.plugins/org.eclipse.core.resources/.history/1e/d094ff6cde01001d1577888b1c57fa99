@@ -1,0 +1,16 @@
+package com.h.singleton;
+
+class MySingleton{
+	private MySingleton() {
+		System.out.println("dare to call me");
+	}
+}
+
+public class DemoSingleton {
+	
+	public static void main(String[] args) {
+		MySingleton m=new MySingleton();
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.a.io_examples.ex_basicsio;
+
+public class DemoPOC {
+
+	public static void main(String[] args) {
+		long start= System.currentTimeMillis();
+		System.out.println(start);
+	}
+}
